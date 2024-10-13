@@ -1,3 +1,3 @@
-https://djhsgfjk.github.io/rsschool-cv/cv
+https://bt-diana.github.io/rsschool-cv/cv
 
-https://djhsgfjk.github.io/rsschool-cv/
+https://bt-diana.github.io/rsschool-cv/
