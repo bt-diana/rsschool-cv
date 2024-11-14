@@ -34,9 +34,11 @@
       </ul>
     </nav>
     <header class="header">
-      <img alt="Butiakova Diana" class="header-photo" src="assets/diana_butiakova.png">
-      <h1 class="header__title">Butiakova Diana</h1>
-      <h2 class="header__description">Front-end Developer</h2>
+      <img alt="Butiakova Diana" class="header__photo" src="assets/diana_butiakova.png">
+      <div class="header-info">
+        <h1 class="header-info__title">Butiakova Diana</h1>
+        <h2 class="header-info__description">Front-end Developer</h2>
+      </div>
     </header>
     <main>
       <section class="section">
@@ -84,52 +86,6 @@
             <li>Docker</li>
             <li>Figma, Adaptive layout</li>
           </ul>
-        </div>
-      </section>
-      <section class="section">
-        <h2 class="section__title" id="code-example">Code Example</h2>
-        <div class="section__description--code-example code-example">
-          <div class="code-example__code-container code-container">
-            <code class="code-container__code code">
-'use strict';
-const Vector = class{
-
-  constructor(arr) {
-    this.vector = arr;
-  };
-
-  toString() {
-    return '(' + this.vector.join(',') + ')';
-  };
-
-  add(val) {
-    if (this.vector.length !== val.vector.length)
-      throw new Error();
-    return new Vector(this.vector.map((x, i) => x + val.vector[i]));
-  };
-
-  subtract(val) {
-    if (this.vector.length !== val.vector.length)
-      throw new Error();
-    return new Vector(this.vector.map((x, i) => x - val.vector[i]));
-  };
-
-  dot(val) {
-    if (this.vector.length !== val.vector.length)
-      throw new Error();
-    return this.vector.reduce((preV, curV, i) => preV + curV * val.vector[i], 0);
-  };
-
-  norm() {
-    return Math.sqrt(this.vector.reduce((preV, curV, i) => preV + Math.pow(curV, 2), 0));
-  };
-
-  equals(val) {
-    return this.vector.toString() === val.vector.toString();
-  };
-}
-            </code>
-          </div>
         </div>
       </section>
       <section class="section">
@@ -211,6 +167,52 @@ const Vector = class{
         </div>
       </section>
       <section class="section">
+        <h2 class="section__title" id="code-example">Code Example</h2>
+        <div class="section__description--code-example code-example">
+          <div class="code-example__code-container code-container">
+            <code class="code-container__code code">
+'use strict';
+const Vector = class{
+
+  constructor(arr) {
+    this.vector = arr;
+  };
+
+  toString() {
+    return '(' + this.vector.join(',') + ')';
+  };
+
+  add(val) {
+    if (this.vector.length !== val.vector.length)
+      throw new Error();
+    return new Vector(this.vector.map((x, i) => x + val.vector[i]));
+  };
+
+  subtract(val) {
+    if (this.vector.length !== val.vector.length)
+      throw new Error();
+    return new Vector(this.vector.map((x, i) => x - val.vector[i]));
+  };
+
+  dot(val) {
+    if (this.vector.length !== val.vector.length)
+      throw new Error();
+    return this.vector.reduce((preV, curV, i) => preV + curV * val.vector[i], 0);
+  };
+
+  norm() {
+    return Math.sqrt(this.vector.reduce((preV, curV, i) => preV + Math.pow(curV, 2), 0));
+  };
+
+  equals(val) {
+    return this.vector.toString() === val.vector.toString();
+  };
+}
+            </code>
+          </div>
+        </div>
+      </section>
+      <section class="section">
         <h2 class="section__title" id="education">Education</h2>
         <div class="section__description--education education">
           <div class="education__institution institution">
@@ -228,7 +230,7 @@ const Vector = class{
         <div class="section__description--certifications certifications">
           <div class="certifications__course course">
             <h3 class="course__title">
-              <p><a href="https://app.rs.school/certificate/9cr8x76q">JS/FE PRE-SCHOOL 2024Q2 (JAVASCRIPT)</a></p>
+              <a href="https://app.rs.school/certificate/9cr8x76q">JS/FE PRE-SCHOOL 2024Q2 (JAVASCRIPT)</a>
             </h3>
             <p class="course__description">
               <strong>The Rolling Scopes School</strong>
