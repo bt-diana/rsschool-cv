@@ -105,9 +105,9 @@ Full-stack task management application that represents a kanban-board with drag-
 - Docker - for deployment
 
 #### [Build](http://209.126.0.235:3000)
-#### [Source code](github.com/djhsgfjk/task-manager-app)
+#### [Source code](https://github.com/djhsgfjk/task-manager-app)
 
-![2048 game](task-manager-app.png)
+![Task manager app](task-manager-app.png)
 
 ## Education
 ### Bachelor's degree, 2023
