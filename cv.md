@@ -4,9 +4,9 @@
 ## Contacts
 Location: Bishkek, Kyrgyzstan\
 E-mail: butyakova01@gmail.com\
-[Telegram](https://t.me/imbluedabudie)\
-[LinkedIn](https://www.linkedin.com/in/diana-butyakova)\
-[Github](https://github.com/djhsgfjk)
+[Telegram](https://t.me/bt_diana)\
+[LinkedIn](https://www.linkedin.com/in/butiakova-diana)\
+[Github](https://github.com/bt-diana)
 
 
 ## Summary
