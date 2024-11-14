@@ -17,10 +17,11 @@ Currently, I am retraining as a front-end developer. I have a solid knowledge of
 My experience in interacting with customers and analyzing functional requirements, combined with my experience in building fully-featured websites for all kinds of devices, will help me provide the best solutions.
 
 ## Skills 
-- HTML, CSS, JavaScript, TypeScript
+- HTML, CSS (Sass), JavaScript, TypeScript
 - WebPack, Vite
 - HTTP, Websockets
 - React, Redux, Axios, React Routes
+- MUI, Bootstrap
 - Git
 - Docker
 - Figma
