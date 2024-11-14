@@ -18,6 +18,7 @@
     "@linthtml/linthtml": "^0.9.6",
     "linthtml-config-htmlacademy": "^1.0.25",
     "stylelint": "^16.6.1",
-    "stylelint-config-htmlacademy": "^4.2.3"
+    "stylelint-config-htmlacademy": "^4.2.3",
+    "stylelint-config-standard": "^36.0.1"
   }
 }

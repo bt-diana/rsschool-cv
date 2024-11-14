@@ -1,0 +1,7 @@
+{
+    "extends": ["stylelint-config-standard", "stylelint-config-htmlacademy"],
+    "rules": {
+        "declaration-no-important": null,
+        "shorthand-property-no-redundant-values": null
+  }
+}

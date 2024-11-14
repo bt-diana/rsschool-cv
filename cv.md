@@ -4,9 +4,9 @@
 ## Contacts
 Location: Bishkek, Kyrgyzstan\
 E-mail: butyakova01@gmail.com\
-[Telegram](https://t.me/imbluedabudie)\
-[LinkedIn](https://www.linkedin.com/in/diana-butyakova)\
-[Github](https://github.com/djhsgfjk)
+[Telegram](https://t.me/bt_diana)\
+[LinkedIn](https://www.linkedin.com/in/butiakova-diana)\
+[Github](https://github.com/bt-diana)
 
 
 ## Summary
@@ -17,13 +17,14 @@ Currently, I am retraining as a front-end developer. I have a solid knowledge of
 My experience in interacting with customers and analyzing functional requirements, combined with my experience in building fully-featured websites for all kinds of devices, will help me provide the best solutions.
 
 ## Skills 
-- HTML, CSS, JavaScript, TypeScript
+- HTML, CSS (Sass), JavaScript, TypeScript
 - WebPack, Vite
 - HTTP, Websockets
 - React, Redux, Axios, React Routes
+- MUI, Bootstrap
 - Git
 - Docker
-- Figma
+- Figma, Adaptive layout
 
 ## Code Example
 ```
@@ -73,7 +74,7 @@ Website created using JS, HTML, CSS, and WebPack. The design was implemented fro
 #### Stack:
 - HTML, CSS, JavaScript
 - WebPack
-- Figma
+- Figma, Adaptive layout
 
 #### [Build](https://rolling-scopes-school.github.io/djhsgfjk-JSFEPRESCHOOL2024Q2/shelter/main)
 
@@ -104,9 +105,9 @@ Full-stack task management application that represents a kanban-board with drag-
 - Docker - for deployment
 
 #### [Build](http://209.126.0.235:3000)
-#### [Source code](github.com/djhsgfjk/task-manager-app)
+#### [Source code](https://github.com/djhsgfjk/task-manager-app)
 
-![2048 game](task-manager-app.png)
+![Task manager app](task-manager-app.png)
 
 ## Education
 ### Bachelor's degree, 2023
