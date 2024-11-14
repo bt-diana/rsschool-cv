@@ -36,13 +36,15 @@ a {
 }
 
 .nav {
-  position: absolute;
+  position: sticky;
   top: 0;
   left: 0;
   width: 100%;
   background-color: var(--second-color);
   display: flex;
   justify-content: space-between;
+  container-type: inline-size;
+  container-name: navigation;
 }
 
 .nav__bar {
@@ -73,6 +75,30 @@ a {
 
 .contents-item__link {
   color: var(--font-second-color) !important;
+}
+
+@container navigation (width <= 930px) {
+  .nav__bar {
+    height: var(--bar-height);
+    margin-left: 20px !important;
+  }
+
+  .bar__icon {
+    display: block;
+    margin-right: 10px;
+  }
+
+  .nav__contents {
+    display: none;
+  }
+
+  nav:hover .nav__contents {
+    display: block;
+  }
+
+  nav:hover .nav__bar {
+    display: none !important;
+  }
 }
 
 @media only screen and (width <= 830px) {
