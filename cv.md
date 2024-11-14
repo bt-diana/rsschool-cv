@@ -24,7 +24,7 @@ My experience in interacting with customers and analyzing functional requirement
 - MUI, Bootstrap
 - Git
 - Docker
-- Figma
+- Figma, Adaptive layout
 
 ## Code Example
 ```
@@ -74,7 +74,7 @@ Website created using JS, HTML, CSS, and WebPack. The design was implemented fro
 #### Stack:
 - HTML, CSS, JavaScript
 - WebPack
-- Figma
+- Figma, Adaptive layout
 
 #### [Build](https://rolling-scopes-school.github.io/djhsgfjk-JSFEPRESCHOOL2024Q2/shelter/main)
 
