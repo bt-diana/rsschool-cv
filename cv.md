@@ -87,8 +87,8 @@ Website created using JS, HTML, CSS, and WebPack. The design was implemented fro
 - HTML, CSS, JavaScript
 - WebPack
 
-#### [Build](djhsgfjk.github.io/2048)
-#### [Source code](github.com/djhsgfjk/2048/tree/main)
+#### [Build](bt-diana.github.io/2048)
+#### [Source code](github.com/bt-diana/2048/tree/main)
 
 ![2048 game](2048-game.gif)
 
@@ -105,7 +105,7 @@ Full-stack task management application that represents a kanban-board with drag-
 - Docker - for deployment
 
 #### [Build](http://209.126.0.235:3000)
-#### [Source code](https://github.com/djhsgfjk/task-manager-app)
+#### [Source code](https://github.com/bt-diana/task-manager-app)
 
 ![Task manager app](task-manager-app.png)
 
